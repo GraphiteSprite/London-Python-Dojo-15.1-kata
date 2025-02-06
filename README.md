@@ -3,11 +3,10 @@
 
 This dojo group voted to allow the use of AI and gave participants a choice of two tasks:
 
-## A. Langton's Ant
+##  Langton's Ant
 
-## B. Image to ASCII 
 
-### Langton's Ant
+ 
 
 
 **Langton's Ant** simulates and visualizes the behavior of Langton's Ant, a well-known algorithmic automaton that moves on a grid and follows simple rules to create intricate patterns.
@@ -16,9 +15,11 @@ This project allows exploration of how simple rules can lead to complex, emergen
   
 Team 2 chose **Langton's Ant**
 
-### Image to ASCII
+##  Image to ASCII 
 
-This code inputs an image file and converts it into ASCII art while maintaining aspect ratio and providing a reasonable visual representation.
+ 
+
+This project inputs an image file and converts it into ASCII art while maintaining aspect ratio and providing a reasonable visual representation.
 
 Team 6 chose **Image to ASCII**
 
