@@ -1,11 +1,11 @@
-### London Python Dojo Meetup 
-# Feburary 5th 2025
+# London Python Dojo Meetup 
+### Feburary 5th 2025
 
 This dojo group voted to allow the use of AI and gave participants a choice of two tasks:
 
-A. Langton's Ant
+## A. Langton's Ant
 or 
-B. Image to ASCII 
+## B. Image to ASCII 
 
 ### Team 2: Langton's Ant
 
