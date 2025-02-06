@@ -21,5 +21,17 @@ This project allows exploration of how simple rules can lead to complex, emergen
 This code inputs an image file and converts it into ASCII art while maintaining aspect ratio and providing a reasonable visual representation.
 
 
+## Acknowlegements
 
+Thankyou to the London Python Dojo for organising the event.
+
+https://ldnpydojo.org.uk/
+
+Join the Meetup group to find out about future events:
+
+https://www.meetup.com/london-python-code-dojo/
+
+Special thanks to T. Rowe Price for sponsoring the venue and refreshments
+
+https://www.troweprice.com/en/uk
 
