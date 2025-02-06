@@ -1,16 +1,24 @@
-London Python Dojo Meetup 
-Feburary 5th 2025
+### London Python Dojo Meetup 
+# Feburary 5th 2025
+
+This dojo group voted to allow the use of AI and gave participants a choice of two tasks:
+
+A. Langton's Ant
+or 
+B. Image to ASCII 
+
+### Team 2: Langton's Ant
 
 
-Group 6 task:
-Create an ASCII image from a jpg or png input image. Use of LLMs is allowed.
+**Langton's Ant** simulates and visualizes the behavior of Langton's Ant, a well-known algorithmic automaton that moves on a grid and follows simple rules to create intricate patterns.
 
-We created two initial versions (branches GS-claude-version and MG-chatgpt-version), then compared the outputs from the initial prompts on ChatGPT and Claude.
+This project allows exploration of how simple rules can lead to complex, emergent patterns.
+  
 
-Using a jupyter notebook, we discussed how to modify the prompts to improve the results after running each code snippet.
 
-We then used chatgpt to create a README for the updated version of MG-chatgpt-version.
+### Team 6: Image to ASCII
 
+This code inputs an image file and converts it into ASCII art while maintaining aspect ratio and providing a reasonable visual representation.
 
 
 
